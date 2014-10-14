@@ -10,7 +10,7 @@ public class HelloWord implements Action {
 	this.name = name;
 	}
 	public String execute() {
-	name = "Hello, " + name + "!";
+	name = "Welcome, " + name +"!";
 	return SUCCESS;
 	}
 }

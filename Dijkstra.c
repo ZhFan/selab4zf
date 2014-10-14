@@ -8,9 +8,7 @@
 using namespace std;  
 struct node  
 {  
-    int d,p;  
-} mat[1005][1005];
-KSJEUfnhia  
+    int d,p;
 int main()  
 {  
     int x,y,n,m,a,b,s,t,i,j,k,d[1005],p[1005],minsd,minsp,visited[1005];  
