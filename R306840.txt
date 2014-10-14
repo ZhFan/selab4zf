@@ -1,6 +1,6 @@
 Title      : Audio:Realtek ALC269 HD Audio, ALC269Q-GR Audio, ALC272 Audio Driver
 Version    : A02
-OEM Name   : Realtek
+OEM Name   :adwhehjbc
 OEM Ver    : 6.0.1.6353
 Computers  : inspiron - N4110, N7110, N4120;
 Vostro Notebook - 3450, 3750
