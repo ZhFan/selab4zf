@@ -1,0 +1,9 @@
+Title      : Audio:Realtek ALC269 HD Audio, ALC269Q-GR Audio, ALC272 Audio Driver
+Version    : A02
+OEM Name   : Realtek
+OEM Ver    : 6.0.1.6353
+Computers  : inspiron - N4110, N7110, N4120;
+Vostro Notebook - 3450, 3750
+Oses       : Windows 7 32-bit Home Basic, Windows 7 32-bit Home Premium, Windows 7 32-bit Professional, Windows 7 32-bit Starter, Windows 7 32-bit Ultimate, Windows 7 64-bit Home Basic, Windows 7 64-bit Home Premium, Windows 7 64-bit Professional, Windows 7 64-bit Ultimate, Windows Vista 32-bit BusinessWindows Vista 32-bit Home BasicWindows Vista 32-bit StarterWindows Vista 64-bit BusinessWindows Vista 64-bit Home BasicWindows Vista 64-bit Home PremiumWindows Vista 64-bit UltimateWindows XP Home EditionWindows XP Professional
+Languages  : Arabic, Brazilian Portuguese, Chinese, Chinese Hong Kong, Chinese-S, Chinese-T, Croatian, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Hebrew, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Romanian, Russian, Slovakian, Slovenian, Spanish, Swedish, Thai, Turkish
+Created    : Fri Jul 15 01:30:14 CDT 2011
