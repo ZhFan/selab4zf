@@ -1,14 +1,7 @@
 #include <iostream>
 using namespace std;
 #define maxsize 100
-struct bank{
-int date;
-double rent;
-};
-struct list{
-bank b[maxsize];
-int last;
-};
+
 void createlist(list &l)
 {
     int d,flag=0;
